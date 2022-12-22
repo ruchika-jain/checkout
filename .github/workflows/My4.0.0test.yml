@@ -19,3 +19,6 @@ jobs:
       # Clone this repo
       - name: Checkout haha
         uses: ruchika-jain/checkout@4.0.0
+        
+      - name: Checkout fail
+        uses: ruchika-jain/checkout@version4.0.1
