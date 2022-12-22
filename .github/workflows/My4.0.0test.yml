@@ -21,4 +21,4 @@ jobs:
       #  uses: ruchika-jain/checkout@4.0.0
         
       - name: Checkout fail
-        uses: ruchika-jain/checkout@4
+        uses: ruchika-jain/checkout@5
