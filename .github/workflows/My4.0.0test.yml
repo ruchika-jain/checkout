@@ -19,6 +19,6 @@ jobs:
     steps:
       # Clone this repo
       - name: Checkout haha
-        uses: ruchika-jain/checkout:4.0.0
+        uses: ruchika-jain/checkout@4.0.0
       
       
