@@ -18,7 +18,9 @@ jobs:
 
     steps:
       # Clone this repo
-      - name: Checkout haha
+      - name: Checkout with v
+        uses: ruchika-jain/checkout@v4.0.0
+      - name: Checkout with number with v tag fail
         uses: ruchika-jain/checkout@4.0.0
       
       
