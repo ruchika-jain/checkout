@@ -20,6 +20,6 @@ jobs:
       # Clone this repo
       
       - name: Checkout with number with v
-        uses: ruchika-jain/checkout@v4.0.0
+        uses: ruchika-jain/checkout@v4.0.3
       
       
