@@ -19,7 +19,7 @@ jobs:
     steps:
       # Clone this repo
       
-      - name: Checkout with number with v
+      - name: Checkout with number with v deleted
         uses: ruchika-jain/checkout@v4.0.3
       
       
